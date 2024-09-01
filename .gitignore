@@ -1,1 +1,6 @@
+test/
+venv/
+
 *.swp
+.DS_Store
+__pycache__/
